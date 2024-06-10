@@ -2,6 +2,6 @@
 <project version="4">
   <component name="SharedFileColors">
     <fileColor scope="Tests" color="Green" />
-    <fileColor scope="Non-Project Files" color="Yellow" />
+    <fileColor scope="Non-Project Files" color="Blue" />
   </component>
 </project>
