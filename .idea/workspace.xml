@@ -5,36 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55b6aa98-93ee-48d3-85db-0741408b5e80" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/screenshots/testBackspace.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/AlertsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/ContextMenuPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/DynamicLoadingExampleOnePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/DynamicLoadingPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/FileUpLoadPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/FramesPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/HorizontalSliderPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/HoversPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/InfiniteScrollPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/KeyPressesPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/LargeAndDeepDomPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/MultipleWindowsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/WysiwygEditorPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/WindowManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/alerts/AlertsTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/alerts/FileUpLoadTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/contextmenu/ContextMenuTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/frames/FramesTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hover/HoverTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/javascript/JavaScriptTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/keys/KeysTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/navigation/NavigationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/nestedframes/NestedFramesTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/slider/SliderTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/wait/WaitTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/fileColors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fileColors.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/resources/chromedriver.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/base/BaseTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/base/BaseTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +21,19 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -78,47 +62,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.BaseTests.executor": "Debug",
-    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
-    "Maven.webdriver_java [clean].executor": "Run",
-    "Maven.webdriver_java [compile].executor": "Run",
-    "Maven.webdriver_java [install].executor": "Run",
-    "Maven.webdriver_java [test].executor": "Run",
-    "Maven.webdriver_java [validate].executor": "Run",
-    "Maven.webdriver_java [verify].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "TestNG.AlertsTests.testAcceptAlert.executor": "Run",
-    "TestNG.AlertsTests.testGetTextFromAlert.executor": "Run",
-    "TestNG.AlertsTests.testSetInputInAlert.executor": "Run",
-    "TestNG.ContextMenuTests.testContextMenu.executor": "Run",
-    "TestNG.DropdownTests.executor": "Run",
-    "TestNG.FileUpLoadTests.testFileUpload.executor": "Run",
-    "TestNG.FramesTests.executor": "Run",
-    "TestNG.FramesTests.testWysiwyg.executor": "Run",
-    "TestNG.HoverTests.executor": "Run",
-    "TestNG.KeysTests.testBackspace.executor": "Run",
-    "TestNG.LoginTest.executor": "Run",
-    "TestNG.LoginTests.executor": "Run",
-    "TestNG.NestedFramesTests.testNestedFrame.executor": "Run",
-    "TestNG.SliderTests.executor": "Run",
-    "TestNG.SliderTests.testRange.executor": "Run",
-    "TestNG.SliderTests.testSlide.executor": "Debug",
-    "TestNG.WaitTests.executor": "Run",
-    "TestNG.WaitTests.testWaitUntilHidden.executor": "Run",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/projects/Java/web-driver-TAU",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.BaseTests.executor&quot;: &quot;Debug&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.webdriver_java [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.webdriver_java [compile].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.webdriver_java [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.webdriver_java [test].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.webdriver_java [validate].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.webdriver_java [verify].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG.AlertsTests.testAcceptAlert.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.AlertsTests.testGetTextFromAlert.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.AlertsTests.testSetInputInAlert.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ContextMenuTests.testContextMenu.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.DropdownTests.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.FileUpLoadTests.testFileUpload.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.FramesTests.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.FramesTests.testWysiwyg.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.HoverTests.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.KeysTests.testBackspace.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginTests.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.NestedFramesTests.testNestedFrame.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SliderTests.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SliderTests.testRange.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SliderTests.testSlide.executor&quot;: &quot;Debug&quot;,
+    &quot;TestNG.WaitTests.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.WaitTests.testWaitUntilHidden.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/projects/Java/web-driver-TAU&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="pages" />
@@ -242,11 +226,53 @@
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/main" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="main" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
